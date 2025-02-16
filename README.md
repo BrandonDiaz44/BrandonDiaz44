@@ -20,7 +20,7 @@
 - University Student.
 - Experience as a software developer.
 - Currently taking an HTML course on my own.
-- I am currently open to an internship or new job opportunity.
+- I am currently open to an internship or new job opportunity. [This is my_resume](https://drive.google.com/file/d/1pP1jgWRLObf9jXQEnHuBC6M4NTH5Gmna/view?usp=sharing)
 
 <br><br>
 
